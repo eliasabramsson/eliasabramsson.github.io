@@ -1,0 +1,51 @@
+body{
+
+	background-color: lightgrey;
+
+}
+.artikel {
+border: solid 2px grey;
+padding: 5px; 
+	width: 500px;
+
+}
+
+
+.body{
+
+	background-color: white;
+}
+
+.bg-light{
+
+	background-color: #336699 !important;
+}
+
+.bilder{
+height: 300px;
+padding: 5px;
+}
+.bigpeep{
+	width: 350px;
+	
+}
+.efterlyst{
+	width: 450px;	
+}
+
+.opinion{
+
+	width: 375px;
+}
+
+	
+	.bg{
+		background-color: white;
+		border: 2px grey solid;
+	}
+	.omoss{
+		height: 150px;
+		width: 150px;
+	}
+
+	
